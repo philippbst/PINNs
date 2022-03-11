@@ -1,0 +1,15 @@
+.spyproject
+
+__pycache__/
+.venv/
+.vscode/
+.pytest_cache
+
+*.pyc
+*.pt
+
+/data/
+
+/models/runs/
+/models/studies/
+/models/trained_models/
