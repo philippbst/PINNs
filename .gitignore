@@ -8,8 +8,19 @@ __pycache__/
 *.pyc
 *.pt
 
-/data/
+/data/raw_FEM_data
 
-/models/runs/
-/models/studies/
-/models/trained_models/
+/models/runs/2Dnavier_lame
+/models/runs/3Dnavier_lame
+
+/models/studies/BMW
+/models/studies/2Dnavier_lame
+/models/studies/2Dnavier_lame_neumann
+/models/studies/3Dnavier_lame
+
+/models/trained_models/2Dnavier_lame
+/models/trained_models/2Dnavier_lame_neumann
+/models/trained_models/3Dnavier_lame
+/models/trained_models/1Dhelmholtz
+/models/trained_models/2Dhelmholtz
+/models/trained_models/BMW
